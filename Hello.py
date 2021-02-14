@@ -30,4 +30,6 @@ print(fam_age["Cinni"])
 
 name_t = True
 
+name='fail'
+
 ###################################
